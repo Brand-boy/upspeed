@@ -1,0 +1,12 @@
+pkg update
+pkg update
+pkg install python
+pkg install git
+pkg install figlet
+pkg install toilet
+pip2 install lolcat
+pkg install futures
+pip2 install requests
+pkg install futures
+pip install futures
+pip2 install futures
